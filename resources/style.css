@@ -4,23 +4,27 @@ html{
   text-align: center;
   color: white;
 }
+
 h1{
   font-size: 50px;
   font-weight: normal;
 }
+
 h2{
   font-weight: 300;
   font-size: 42px;
 }
+
 a{
   font-size: 16px;
   color: aquamarine;
 }
+
 p{
   color: grey;
   font-size: 21px;
 }
-.copyright{
-  color: grey;
+
+#copyright{
   text-align: right;
 }
